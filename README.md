@@ -20,3 +20,4 @@ This project demonstrates a hands-on implementation of image classification usin
 
 # OUTPUT
 
+<img width="1254" height="341" alt="Image" src="https://github.com/user-attachments/assets/10b0c49a-dc87-4d14-8b9c-cff451d5970f" />
